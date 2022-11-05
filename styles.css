@@ -1,0 +1,18 @@
+.grid{
+    width: 606px;
+    height: 606px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square{
+    background: url(./images/grass.png);
+    cursor: crosshair;
+    width: 200px;
+    height: 200px;
+    border: solid black 1px;
+}
+
+.taupe{
+    background: url(./images/taupe.png);
+}
